@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 
 ### 🕵️‍♀️ The Engineer Behind the Code
 
-I am a Computer Science Engineering graduate specializing in Cybersecurity (8.99 CGPA)[span_0](start_span)[span_0](end_span), with a passion for building systems that are as secure as they are efficient. From deploying automated security monitoring to building custom e-commerce layouts, I thrive in complex developer ecosystems.
+I am a Computer Science Engineering graduate specializing in Cybersecurity (8.99 CGPA), with a passion for building systems that are as secure as they are efficient. From deploying automated security monitoring to building custom e-commerce layouts, I thrive in complex developer ecosystems.
 
 * 🔭 **Currently Focusing On:** Advanced cloud intelligence modules, multimodal AI prompt sandboxes, and behavioral threat detection frameworks.
-* 🏆 **Major Milestone:** Lead Inventor on a published Indian patent for a Zero-Trust Honeypot Defense Framework (IN202641047773 A1)[span_1](start_span)[span_1](end_span).
+* 🏆 **Major Milestone:** Lead Inventor on a published Indian patent for a Zero-Trust Honeypot Defense Framework (IN202641047773 A1).
 * 🏗️ **Recent Builds:** Developed an automated contact inquiry system for a custom layout known as *The Bismillah ecommerce*, and launched online mapping/search optimizations for *Bismillah Stainless Steel Works*.
 * 🧠 **Fun Fact:** When I'm not hunting vulnerabilities or coding, I enjoy researching linguistic structures, such as the relationship between Arabic characters and Tamil spellings!
 
