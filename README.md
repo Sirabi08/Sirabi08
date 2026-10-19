@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ### 🕵️‍♀️ The Engineer Behind the Code
 
-I am a Computer Science Engineering graduate specializing in Cybersecurity (8.99 CGPA), with a passion for building systems that are as secure as they are efficient. From deploying automated security monitoring to building custom e-commerce layouts, I thrive in complex developer ecosystems.
+I am a Computer Science Engineering graduate specializing in Cybersecurity, with a passion for building systems that are as secure as they are efficient. From deploying automated security monitoring to building custom e-commerce layouts, I thrive in complex developer ecosystems.
 
 * 🔭 **Currently Focusing On:** Advanced cloud intelligence modules, multimodal AI prompt sandboxes, and behavioral threat detection frameworks.
 * 🏆 **Major Milestone:** Lead Inventor on a published Indian patent for a Zero-Trust Honeypot Defense Framework (IN202641047773 A1).
